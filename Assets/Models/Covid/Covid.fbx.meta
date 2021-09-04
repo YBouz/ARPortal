@@ -1,0 +1,449 @@
+fileFormatVersion: 2
+guid: 58ab02c3d6090458fab5e036bd7390e6
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: -1498010087492872569
+    second: CINEMA_4D_Main
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: A
+    second: {fileID: 2100000, guid: ebaf7d7ace75dd845b8fb872e4b99128, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cieling
+    second: {fileID: 2100000, guid: fe79c6683199cb643b7c872a8cabd8a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube
+    second: {fileID: 2100000, guid: 5f6a520092cd1894e8b7dc6d91633aff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: E
+    second: {fileID: 2100000, guid: 60a3d6815274f504aa8b0894184f543a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor
+    second: {fileID: 2100000, guid: 2c69c2f1564a2c84b9a27de734fbeec5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Guy
+    second: {fileID: 2100000, guid: 47c35909cf4b2484f8a9773250bd76fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: H
+    second: {fileID: 2100000, guid: 676ab8162e2cf3d4295a61725a8b1f05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M
+    second: {fileID: 2100000, guid: 6271a564c63374e4f90409f65ca67b05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: O
+    second: {fileID: 2100000, guid: 297ed14358acf6f4195168f6bfd9f969, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: S
+    second: {fileID: 2100000, guid: 3f3c5b142658bc04caefc628fc3e810e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T
+    second: {fileID: 2100000, guid: fa80b7b6eab51434eacbf4cf9a45381e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Virus.1
+    second: {fileID: 2100000, guid: 9213a3f2004dee9498b445d6fa527416, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall_E
+    second: {fileID: 2100000, guid: e849817adba788546bf6689647fcafde, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall_L
+    second: {fileID: 2100000, guid: f9f5a443003b58e4e952b1f460b34919, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall_R
+    second: {fileID: 2100000, guid: 78683ad20ac410046b0a98334b6347df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall_W
+    second: {fileID: 2100000, guid: ef587b41143f2ed408762578b824e022, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Window_B
+    second: {fileID: 2100000, guid: b216ab6d34895004baab5682c9f20d83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Window_L
+    second: {fileID: 2100000, guid: 8d6ea94220be8034ea06583a734782d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Window_R.1
+    second: {fileID: 2100000, guid: 99f0390107831b345b9f60ec4bdd9a02, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Window_U
+    second: {fileID: 2100000, guid: 6745112579c94b447b7c7a3a65e2f973, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Y
+    second: {fileID: 2100000, guid: 4dff5107e3a3cba47b15a254d727ae34, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ANormal
+    second: {fileID: 2800000, guid: 79422c26bec8a45da9581f656c136543, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ASurface_Color
+    second: {fileID: 2800000, guid: b4cbe09d0b15543f4a7b5ac06c2a6024, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CielingNormal
+    second: {fileID: 2800000, guid: a85d4126f38b6434080e6e2c4862c62f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CielingSurface_Color
+    second: {fileID: 2800000, guid: 737b497dfa1e64298848f3b3bf907413, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CubeSurface_Color
+    second: {fileID: 2800000, guid: 3d5fe7b558ee340b99bdde52656cef40, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ENormal
+    second: {fileID: 2800000, guid: 4f7665512b7e846569f3a4916de4c7ad, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ESurface_Color
+    second: {fileID: 2800000, guid: 7926123a1ba664d04853cfc296fd88a0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: FloorNormal
+    second: {fileID: 2800000, guid: baa47cb94149644caaa79147a9b30460, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: FloorSurface_Color
+    second: {fileID: 2800000, guid: f89833fb1a79a42e9aaf63c571b05b51, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: GuyNormal
+    second: {fileID: 2800000, guid: 277a3709bd52b4977adf7a3c388a65c5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: GuySurface_Color
+    second: {fileID: 2800000, guid: 0bfc481e70b8e4aa2964ac2b05cb0a89, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: HNormal
+    second: {fileID: 2800000, guid: b8d997895c22444938d4a047f4659988, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: HSurface_Color
+    second: {fileID: 2800000, guid: c65fba53fb7784e76a2ec7597f6e1903, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MNormal
+    second: {fileID: 2800000, guid: 5277772b443704537986dcc07ca8ce4e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MSurface_Color
+    second: {fileID: 2800000, guid: 16a82c14c466f4925890b8f16b01fba9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ONormal
+    second: {fileID: 2800000, guid: ab50204b4e91d4bbb8a3b8bf5096f7b8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: OSurface_Color
+    second: {fileID: 2800000, guid: e2d20a8a87ae3453f9ad50cbc72d3ca5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SNormal
+    second: {fileID: 2800000, guid: 4fb49c0989a7f457196f2c72f40b80b7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SSurface_Color
+    second: {fileID: 2800000, guid: 3d2a1802306c54a82b319fb6332cee60, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sitter_Low_Base_Color
+    second: {fileID: 2800000, guid: 8a2ff1fe0c3784e3499050bf9a316b35, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sitter_Low_Metallic
+    second: {fileID: 2800000, guid: 471e29624a32145b287e012841e20318, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TNormal
+    second: {fileID: 2800000, guid: 30f9c8b2a7f204a75902c4c75e535c46, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TSurface_Color
+    second: {fileID: 2800000, guid: a8a0222cc580041dcb386185a4942181, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wall_ENormal
+    second: {fileID: 2800000, guid: f7dcfc27087254ba5933b1cf58829e8d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wall_ESurface_Color
+    second: {fileID: 2800000, guid: b1208557d193342149a6d47548eda120, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wall_LNormal
+    second: {fileID: 2800000, guid: 0ae8a35dc59a3428f87685a5f73c0a03, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wall_LSurface_Color
+    second: {fileID: 2800000, guid: 4333fe66d32154b95826101edea63c7e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wall_RNormal
+    second: {fileID: 2800000, guid: 5a5950301426c4f41843ad43f37fe521, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wall_RSurface_Color
+    second: {fileID: 2800000, guid: 0f9cd39f095274a08b1e0ac184f90e84, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Window_BNormal
+    second: {fileID: 2800000, guid: d55fdf4f36c4d4a2385fd04aaf3e75a1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Window_BSurface_Color
+    second: {fileID: 2800000, guid: 82383b64a2369483caf358852e2e8148, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Window_HNormal
+    second: {fileID: 2800000, guid: 7d4127ac09efa4b7dabe2385c9d2a037, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Window_HSurface_Color
+    second: {fileID: 2800000, guid: 1105964ee011f4e87b4d23e611b965b8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Window_LNormal
+    second: {fileID: 2800000, guid: 5e33ca05202f84e32978cd7c1cd5f2be, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Window_LSurface_Color
+    second: {fileID: 2800000, guid: 58906796285084b1d85d3250c62fff5c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Window_RNormal
+    second: {fileID: 2800000, guid: 9dcea0ca099d847cd9eb17d27ad7a611, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Window_RSurface_Color
+    second: {fileID: 2800000, guid: c6dcf4e24578e420ea05b32738e0a015, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Window_UNormal
+    second: {fileID: 2800000, guid: 89eb130b2d8db43389023ab26cd535ec, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Window_USurface_Color
+    second: {fileID: 2800000, guid: ade8a62afb6914428a0dfcb60e87483d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: YNormal
+    second: {fileID: 2800000, guid: 8a3756b6d36d44449b0af9b8a2e0c628, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: YSurface_Color
+    second: {fileID: 2800000, guid: 1f46e87a0d97d4771826fdde56cbb3da, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: virusNormal
+    second: {fileID: 2800000, guid: 1d4092ed5267849dbbf06426007e4d56, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: virusSurface_Color
+    second: {fileID: 2800000, guid: 9335143196a1f486eb7013c3992393b8, type: 3}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: CINEMA_4D_Main
+      takeName: CINEMA_4D_Main
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

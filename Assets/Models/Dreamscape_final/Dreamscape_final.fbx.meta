@@ -1,0 +1,894 @@
+fileFormatVersion: 2
+guid: 070c625fe6b0a4d85b315ae2c39dc51c
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: -1498010087492872569
+    second: CINEMA_4D_Main
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.3-Null.2
+    second: {fileID: 2100000, guid: 08e07f737cb414d3588d6c9bf4655082, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.3-Null.3
+    second: {fileID: 2100000, guid: e439a872c725e47f0bf577860b450429, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ELEPHANT_01
+    second: {fileID: 2100000, guid: 1ca046b7eb25049e78032ff24d363d12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ELEPHANT_01.1
+    second: {fileID: 2100000, guid: 1ffe33cb94bbb465f8382e95ed01d3c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor_
+    second: {fileID: 2100000, guid: aeccbfa5647ce488dab19b4d5e8df9aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flower1
+    second: {fileID: 2100000, guid: 55cb3e2f81d06489b9ed6dd863438c63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flower2
+    second: {fileID: 2100000, guid: 661da1bc7070e4800af7c93530fee13f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flower3
+    second: {fileID: 2100000, guid: 28f4ceabbcae442a0b587c50a832f257, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flower4
+    second: {fileID: 2100000, guid: 33f356ae5dbf44c7c91dc99de271be9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flower5
+    second: {fileID: 2100000, guid: b4ec49ba8594f4fd1ae194432f69cd77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flower6
+    second: {fileID: 2100000, guid: db978977a4e5545459a7624369285b8f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Landscape
+    second: {fileID: 2100000, guid: 2b9fc417baa2b4b1488b02b815515181, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OBOLESK_01
+    second: {fileID: 2100000, guid: dd9390cd811ad4e3ab337e8b4e24c3f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OBOLESK_01.1
+    second: {fileID: 2100000, guid: 5de259b4d10ec4f31a944f993c7fa194, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere 0
+    second: {fileID: 2100000, guid: 3df820983f3f94c6eb804f7c4bbbbe30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere 1
+    second: {fileID: 2100000, guid: a859aebecd3cf471084ae0af94c0fa23, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere 10
+    second: {fileID: 2100000, guid: c1e1e9473e99849a68f26d529b6057c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere 11
+    second: {fileID: 2100000, guid: c19019bdde5674214b6b2ca534ed2ca5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere 12
+    second: {fileID: 2100000, guid: 41ba81aeb9b1f460a88e5d3fe0ee44ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere 13
+    second: {fileID: 2100000, guid: 0a9cee68501ab4f67bf546cbc86b0a73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere 14
+    second: {fileID: 2100000, guid: b205a807e34cc4839b00be706439f30c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere 15
+    second: {fileID: 2100000, guid: 321b7716e8db1498798899537f38732b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere 16
+    second: {fileID: 2100000, guid: c33ee806b0ae34028af288e1840c1e8a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere 17
+    second: {fileID: 2100000, guid: 484d047f626f04fd8885caaf20d1b227, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere 18
+    second: {fileID: 2100000, guid: 4df12d748151246b78f7dd702387c159, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere 19
+    second: {fileID: 2100000, guid: b4fdc0f58a716419aa53288f655b5ee7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere 2
+    second: {fileID: 2100000, guid: 967de9bde97814e5f9d55891ae6f3847, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere 20
+    second: {fileID: 2100000, guid: 8f473f085a8e44e54b5a1c0b9391cf00, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere 21
+    second: {fileID: 2100000, guid: 885fabd4e17a445edace80c656c2b1d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere 22
+    second: {fileID: 2100000, guid: bbc12e79768434fd181e1b517e2300db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere 23
+    second: {fileID: 2100000, guid: b69f59ba6b3814a618c2b64a95c2e5cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere 24
+    second: {fileID: 2100000, guid: 9dff01b8ec71f440fb6a3886371ae238, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere 25
+    second: {fileID: 2100000, guid: 54287e8498d124d5fbd9f23230831555, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere 26
+    second: {fileID: 2100000, guid: 933c83848f8624422b829bf0d038b8fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere 27
+    second: {fileID: 2100000, guid: c45af91dfa23249fdbec361e31b98175, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere 28
+    second: {fileID: 2100000, guid: 23700c56ad778429da722a3f24a34533, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere 29
+    second: {fileID: 2100000, guid: 4923092291de54206a98d899ef8ca11d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere 3
+    second: {fileID: 2100000, guid: 07f1c0b23f8f34334a499f49cae117c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere 30
+    second: {fileID: 2100000, guid: b2b4db9d62b764af58b407e51a407508, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere 31
+    second: {fileID: 2100000, guid: 6f0962f26b6734725be85f70a968aae2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere 4
+    second: {fileID: 2100000, guid: 1f4cecb252f8045e4a4c336568be8bc3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere 5
+    second: {fileID: 2100000, guid: ebe60c346b8414c3aa5b00fbaa859e90, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere 6
+    second: {fileID: 2100000, guid: c49de5a10475b43cd86b4bcd6726eb14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere 7
+    second: {fileID: 2100000, guid: e36ef089b30314845a88da6850671a5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere 8
+    second: {fileID: 2100000, guid: 74c4809542bbd43e2ad1ed334ffcc44a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere 9
+    second: {fileID: 2100000, guid: 3b0b65a81b8ec4d1695d09fe9da85d24, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall_E
+    second: {fileID: 2100000, guid: 640c543410cbf420cab3088bf3cbc735, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall_L
+    second: {fileID: 2100000, guid: 7c2d91445fdfe4586ac3678aa5525e77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: planet
+    second: {fileID: 2100000, guid: f7b35a211600e44d1b1becb27c12716f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roof 38
+    second: {fileID: 2100000, guid: 19004cef53fa04ae6b618cfb48c0e04e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stand_b
+    second: {fileID: 2100000, guid: 45f9eb18617ed4beba0bd32a11c6e16c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stand_t
+    second: {fileID: 2100000, guid: d6736ca5608e34edf874876dff749930, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Arch2Surface_Color
+    second: {fileID: 2800000, guid: daed03c11920f4af18497a91d939c6de, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ArchNormal
+    second: {fileID: 2800000, guid: 4edcb572611434990a7d687170e83196, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ArchSurface_Color
+    second: {fileID: 2800000, guid: 9ffb35e8289204065ab2919ade81c67f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Cube.3-NullNormal
+    second: {fileID: 2800000, guid: edbba7e73d34f4c61b6d2dfdafa2716b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Cube.3-NullSurface_Color
+    second: {fileID: 2800000, guid: 86ff1517b83024b649d82ed02d19b646, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ELEPHANT_01Normal
+    second: {fileID: 2800000, guid: aab4c22514d714aaabd84c830bea62ff, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ELEPHANT_01Surface_Color
+    second: {fileID: 2800000, guid: 5c10ef03826b94c1c9edc5b80f11e3d5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Floor_Normal
+    second: {fileID: 2800000, guid: 72dd8dc899cbc4940bd4226cff6fc4f3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Floor_Surface_Color
+    second: {fileID: 2800000, guid: 6aa2b62b1a1d94edfab131ec7bfbf169, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Flower1Normal
+    second: {fileID: 2800000, guid: ea117f05ed33e43abb77db2a191098f3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Flower1Surface_Color
+    second: {fileID: 2800000, guid: 11ceda2cde09e43e2a3f96fdf6d6fb82, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Flower2Normal
+    second: {fileID: 2800000, guid: 33966df1f031c4090a7a8aaa13d1a395, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Flower2Surface_Color
+    second: {fileID: 2800000, guid: 03f4e6ade722c47308fc73e896b84d41, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Flower3Normal
+    second: {fileID: 2800000, guid: 105a873550781420392c69255124ec75, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Flower3Surface_Color
+    second: {fileID: 2800000, guid: 1e3752b18493d47bba78de989d896a86, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Flower4Normal
+    second: {fileID: 2800000, guid: 1d4e68a327fe5464687788aba9bb05bc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Flower4Surface_Color
+    second: {fileID: 2800000, guid: 13e34e2da0539452b99804b13ae588b2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Flower5Normal
+    second: {fileID: 2800000, guid: 4342e340bf8824efe8d292aef55a8e85, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Flower5Surface_Color
+    second: {fileID: 2800000, guid: d97a1c0844da5472a997c14189445968, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Flower6Normal
+    second: {fileID: 2800000, guid: f0742b4e7d48c4b8d9ac70b7e5bc89d0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Flower6Surface_Color
+    second: {fileID: 2800000, guid: 1388b7962694a4448a02e2dcb73c32ad, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: OBOLESK_01Normal
+    second: {fileID: 2800000, guid: 5acb394721bf94cfdbc5f14596a8866e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: OBOLESK_01Surface_Color
+    second: {fileID: 2800000, guid: f0811e257387d45038ff6a37e97542e1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: RoofNormal
+    second: {fileID: 2800000, guid: f4971d8d487dd4092b318f49ad88d730, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: RoofSurface_Color
+    second: {fileID: 2800000, guid: 659f08476e997433c933ee933772b5fb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sphere_0Normal
+    second: {fileID: 2800000, guid: 2da44528e26aa49da9c12a726a2434a9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sphere_0Surface_Color
+    second: {fileID: 2800000, guid: 4f32f939906604eb19fd93f8d05d37f0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sphere_10Normal
+    second: {fileID: 2800000, guid: 55f105b8f9e97459da0953a88d127e5c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sphere_10Surface_Color
+    second: {fileID: 2800000, guid: 15236029ac75a4076a37220e2230b346, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sphere_11Normal
+    second: {fileID: 2800000, guid: ce443dfed74d240b5b2e4bb1aba94b5a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sphere_11Surface_Color
+    second: {fileID: 2800000, guid: 741f496e5ca4249eaa56cb778c5dfb27, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sphere_12Normal
+    second: {fileID: 2800000, guid: 0805dd9e63c4b47f7a778a5caabec4d7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sphere_12Surface_Color
+    second: {fileID: 2800000, guid: e6176f15d94dd4215a9f0111fea66ae4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sphere_13Normal
+    second: {fileID: 2800000, guid: b63f899ae33344a02a439499ae436fc3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sphere_13Surface_Color
+    second: {fileID: 2800000, guid: fa70a1a47929f4beea8c8a8bb068abb8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sphere_14Normal
+    second: {fileID: 2800000, guid: 13c60c2ff068d48fda248026e190322b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sphere_14Surface_Color
+    second: {fileID: 2800000, guid: a4bba450d28424e4f9f4cbe54271e2cd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sphere_15Normal
+    second: {fileID: 2800000, guid: b89696be232544c92a560326203fa37e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sphere_15Surface_Color
+    second: {fileID: 2800000, guid: 9b5c1cae9bca74ba1aee613daab7d4d8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sphere_16Normal
+    second: {fileID: 2800000, guid: 481d2531f114c4fc388174c5f813eb5f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sphere_16Surface_Color
+    second: {fileID: 2800000, guid: 63b6f29b10eb0433c9b474d6d04c7888, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sphere_17Normal
+    second: {fileID: 2800000, guid: 86fe84bb0beaa430da0d4f93b4481aea, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sphere_17Surface_Color
+    second: {fileID: 2800000, guid: ca0165f7713ac4719beb3dbec72d09e3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sphere_18Normal
+    second: {fileID: 2800000, guid: 8d1f6d714571647bba96b07534535085, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sphere_18Surface_Color
+    second: {fileID: 2800000, guid: 26fc5848e760b4bb18efe858d2187523, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sphere_19Normal
+    second: {fileID: 2800000, guid: c7afed313d1a546fdb1d9a8ad2164a23, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sphere_19Surface_Color
+    second: {fileID: 2800000, guid: 609875f88a2fa4cbe911ff102a781d3f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sphere_1Normal
+    second: {fileID: 2800000, guid: 07b0ca8aae6d141388af4606873b67c3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sphere_1Surface_Color
+    second: {fileID: 2800000, guid: b4a83f086de17418184564d296b76ce0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sphere_20Normal
+    second: {fileID: 2800000, guid: 69b0bd8d3102f41d485d0d66e2ed8451, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sphere_20Surface_Color
+    second: {fileID: 2800000, guid: b356419c3a84c441ea678625680cc7d1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sphere_21Normal
+    second: {fileID: 2800000, guid: fdecb2e6fadcc483a8523978665451f5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sphere_21Surface_Color
+    second: {fileID: 2800000, guid: 9d06a634fc4854be1bc87a22e33c8624, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sphere_22Normal
+    second: {fileID: 2800000, guid: 2cd27179827ea400e8e7b902228b7fe1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sphere_22Surface_Color
+    second: {fileID: 2800000, guid: ab82120af1d71446bb90b65a0e6d6769, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sphere_23Normal
+    second: {fileID: 2800000, guid: 7507ea88221654434b5b993d038566bd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sphere_23Surface_Color
+    second: {fileID: 2800000, guid: 15d4794f5616a411fbc322380a514064, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sphere_24Normal
+    second: {fileID: 2800000, guid: f5ca5ec3478314f09bbef89482ed4656, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sphere_24Surface_Color
+    second: {fileID: 2800000, guid: 2bd6354c4f82142ea8067611a1c12db7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sphere_25Normal
+    second: {fileID: 2800000, guid: 848f9e303e3f34ebaac883ec0c3ceeff, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sphere_25Surface_Color
+    second: {fileID: 2800000, guid: e6a59666d4dcb4b2398a038814dc8867, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sphere_26Normal
+    second: {fileID: 2800000, guid: 4eec77ddeeb88479c8e86badcf0fe720, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sphere_26Surface_Color
+    second: {fileID: 2800000, guid: bdfeba554adcd4d61bed430822f815ea, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sphere_27Normal
+    second: {fileID: 2800000, guid: f407a9c22a3e54bb4863901ad66c4181, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sphere_27Surface_Color
+    second: {fileID: 2800000, guid: b194e8f4d846f44daa2184d23b141118, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sphere_28Normal
+    second: {fileID: 2800000, guid: c268c33cf2ed14a99b0960f38b4e5786, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sphere_28Surface_Color
+    second: {fileID: 2800000, guid: afd4bf4f33be844a09ead20a631bb232, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sphere_29Normal
+    second: {fileID: 2800000, guid: a0ac5ea23605a4346ae2d7e40f26c42d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sphere_29Surface_Color
+    second: {fileID: 2800000, guid: 8a5e71a6c2c224942806b5470e600c75, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sphere_2Normal
+    second: {fileID: 2800000, guid: 2a37a2162e230419299382d1aefbe3a8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sphere_2Surface_Color
+    second: {fileID: 2800000, guid: 3bba5f399e8f3419c9a6572fb3de174a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sphere_30Normal
+    second: {fileID: 2800000, guid: aef23babfd577451f897731a7986974c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sphere_30Surface_Color
+    second: {fileID: 2800000, guid: 5480e4f4a62e24926ae471c8a99fca86, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sphere_31Normal
+    second: {fileID: 2800000, guid: 2f619948cf8c948838e50291b91c6cc6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sphere_31Surface_Color
+    second: {fileID: 2800000, guid: 011a8eca43d62485ba8e9eed0621b800, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sphere_3Normal
+    second: {fileID: 2800000, guid: a5c1bce33e80f48f89eeeaa4b64ddffb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sphere_3Surface_Color
+    second: {fileID: 2800000, guid: 7f12a006cd1074163b4e35395808a6e9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sphere_4Normal
+    second: {fileID: 2800000, guid: fd96196020455495591eb2f34e1dad7f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sphere_4Surface_Color
+    second: {fileID: 2800000, guid: 3a06755827f694785b4e2b3855017541, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sphere_5Normal
+    second: {fileID: 2800000, guid: 82ab15fe5dfc142fa99f263d03689838, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sphere_5Surface_Color
+    second: {fileID: 2800000, guid: 11a8bbf5208b04e879eb323660592d34, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sphere_6Normal
+    second: {fileID: 2800000, guid: d6dff9d1db1e1495196aff8ff6f6766d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sphere_6Surface_Color
+    second: {fileID: 2800000, guid: 7a30386536893497ea69e6c027fbc60a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sphere_7Normal
+    second: {fileID: 2800000, guid: a0bfb2a284a9c46f68cd716c183f4fa4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sphere_7Surface_Color
+    second: {fileID: 2800000, guid: c2c5b1c701741466ebae4ab82bb1fc96, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sphere_8Normal
+    second: {fileID: 2800000, guid: 2d289c82ad8bd4f6695feb631670eebe, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sphere_8Surface_Color
+    second: {fileID: 2800000, guid: 3deecf519a8784482906a4c2bfc4e9a4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sphere_9Normal
+    second: {fileID: 2800000, guid: 5e73307df126442d79fcb47b915df3ef, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sphere_9Surface_Color
+    second: {fileID: 2800000, guid: fb0dd00a962ec48f390420dfba633621, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wall_E.2Normal
+    second: {fileID: 2800000, guid: c1772da89e19a4c878a2cb986a8e7694, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wall_E.2Surface_Color
+    second: {fileID: 2800000, guid: b4cff4974c3a14ce1abc8ed87bc9b19e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wall_LNormal
+    second: {fileID: 2800000, guid: 9bb5ef90619f44b58b1db52b85c7be45, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wall_LSurface_Color
+    second: {fileID: 2800000, guid: e4d08433e39b5427fa689d6b1a11d7d8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: elephant_NRM
+    second: {fileID: 2800000, guid: e0b755765331c4e2c8a47bcc42a42e6a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: planet2
+    second: {fileID: 2800000, guid: 00f7a0e5e87cc4af58cfa48f5797be59, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sandSurface_Color
+    second: {fileID: 2800000, guid: 35f3b1b7eb9c9481abe82af0a18f0cd9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stand_bNormal
+    second: {fileID: 2800000, guid: bc69aba20ad4b4cebbe0f6eaf7c4a8ea, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stand_bSurface_Color
+    second: {fileID: 2800000, guid: 8cff24ae1bd3f461d8489585292f550e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stand_tNormal
+    second: {fileID: 2800000, guid: 55347099d71cd4bfb81b3a0e8f053eab, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stand_tSurface_Color
+    second: {fileID: 2800000, guid: bd990c2ea92e0432aaf3fada69ad1c8d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stone_NRM
+    second: {fileID: 2800000, guid: 68e9b1cea4aff45e3999db67ff235cac, type: 3}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: CINEMA_4D_Main
+      takeName: CINEMA_4D_Main
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 800
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
